@@ -1,0 +1,9 @@
+app:
+  name: fan-ui
+  env: dev
+  address: ":8080"
+  shutdown_timeout: 10s
+
+log:
+  level: info
+
